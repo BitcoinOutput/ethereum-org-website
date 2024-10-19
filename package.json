@@ -87,7 +87,7 @@
     "@netlify/functions": "^1.2.0",
     "@storybook/addon-a11y": "^7.0.6",
     "@storybook/addon-actions": "^7.0.6",
-    "@storybook/addon-essentials": "^7.0.6",
+    "@storybook/addon-essentials": "^8.2.0",
     "@storybook/addon-interactions": "^7.0.6",
     "@storybook/addon-links": "^7.0.6",
     "@storybook/react": "^7.0.6",
